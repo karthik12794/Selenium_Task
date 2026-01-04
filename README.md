@@ -46,7 +46,7 @@ Once the setup was ready, I analyzed the requirements of the task. I identified 
 
 ---
 
-##output
+## output
 
 <img width="1903" height="992" alt="Image" src="https://github.com/user-attachments/assets/9a5462c6-8a17-44a9-819d-fa4a834b0b05" />
 
